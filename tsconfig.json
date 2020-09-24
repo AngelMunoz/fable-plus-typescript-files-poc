@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "module": "es2015",
+        "target": "es2015"
+    },
+    "include": [
+        "./src"
+    ],
+    "exclude": [
+        ".fable",
+        "node_modules"
+    ]
+}
